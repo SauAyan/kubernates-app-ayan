@@ -1,4 +1,4 @@
-apiVersion: app/V1
+apiVersion: apps/V1
 kind: Deployment
 metadata:
   name: vprodb
